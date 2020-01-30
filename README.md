@@ -1,12 +1,38 @@
 # Awesome dear imgui
 
-A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings, extensions and resources.
+A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings, extensions and resources. WIP!
 
 ## Contents
 
+* [Other lists](#other-lists)
+* [Libraries](#libraries)
 * [Bindings](#bindings)
   * [Languages](#languages)
   * [Engines](#engines)
+
+### Other lists
+
+* [imgui Wiki - Bindings](https://github.com/ocornut/imgui/wiki/Bindings)
+* [imgui Wiki - Useful Widgets & References](https://github.com/ocornut/imgui/wiki#useful-widgets--references)
+
+### Libraries
+
+* [bigg](https://github.com/JoshuaBrookover/bigg): Simple framework bringing together bgfx, imgui, glfw, and glm.
+* [ImGuiAl](https://github.com/leiradel/ImGuiAl): Widgets for imgui
+* [ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit): Colorizing text editor for ImGui
+* [imguiDock](https://github.com/BentleyBlanks/imguiDock): An addon of imgui for supporting docks in the imgui's window 
+* [imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser): File browser implementation for dear-imgui. C++17 required.
+* [ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog): File Dialog for ImGui
+* [ImGui Goodies](https://github.com/aoterodelaroza/imgui-goodies): Widgets and utilities for ImGui
+* [imgui_markdown](https://github.com/juliettef/imgui_markdown): Markdown for Dear ImGui
+* [imgui_memory_editor](https://github.com/ocornut/imgui_club): Mini hexadecimal editor
+* [imgui-plot](https://github.com/soulthreads/imgui-plot): An improved plot widget for Dear ImGui, aimed at displaying audio data
+* [imgui_tabs](https://github.com/scottmudge/imgui_tabs): Tab module for imgui
+* [ImViewGizmo](https://github.com/CedricGuillemet/ImGuizmo): Immediate mode 3D gizmo for scene editing and other controls 
+based on Dear Imgui
+* [ImWindow](https://github.com/thennequin/ImWindow): Window and GUI system based on Dear ImGui from OCornut
+* [Node Editor in ImGui](https://github.com/thedmd/imgui-node-editor): Node Editor using ImGui 
+* [Remote ImGui](https://github.com/JordiRos/remoteimgui): Extension for dear imgui, sending output and receiving input from a target client in another device running an HTML5/WebGL/WebSockets(v13) application
 
 ### Bindings
 
