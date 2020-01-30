@@ -25,23 +25,40 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 ### Libraries
 
 * [bigg](https://github.com/JoshuaBrookover/bigg): Simple framework bringing together bgfx, imgui, glfw, and glm.
+* [gfx_ui](https://github.com/colormotor/gfx_ui): A minimal geometry editing UI based on IMGUI
+![gfx_ui screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/gfx_ui.jpg?raw=true)
+* [ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons): Cross Platform File Dialog for Dear-ImGui
+![ImGui-Addons screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/ImGui-Addons.gif?raw=true)
 * [ImGuiAl](https://github.com/leiradel/ImGuiAl): Widgets for imgui
 * [ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit): Colorizing text editor for ImGui
+![ImGuiColorTextEdit screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/ImGuiColorTextEdit.png?raw=true)
 * [imguiDock](https://github.com/BentleyBlanks/imguiDock): An addon of imgui for supporting docks in the imgui's window 
+![imguiDock screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imguiDock.jpeg?raw=true)
 * [imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser): File browser implementation for dear-imgui. C++17 required.
+![imgui-filebrowser screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui-filebrowser.png?raw=true)
 * [ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog): File Dialog for ImGui
 * [ImGui Goodies](https://github.com/aoterodelaroza/imgui-goodies): Widgets and utilities for ImGui
 * [imgui_markdown](https://github.com/juliettef/imgui_markdown): Markdown for Dear ImGui
-* [imgui_memory_editor](https://github.com/ocornut/imgui_club): Mini hexadecimal editor
+![imgui_markdown screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui_markdown.gif?raw=true)
+* [imgui_memory_editor](https://github.com/ocornut/imgui_club): Mini hexadecimal editor\
+![imgui_memory_editor screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui_memory_editor.gif?raw=true)
 * [imgui-plot](https://github.com/soulthreads/imgui-plot): An improved plot widget for Dear ImGui, aimed at displaying audio data
-* [imgui_tabs](https://github.com/scottmudge/imgui_tabs): Tab module for imgui
+![imgui-plot screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui-plot.png?raw=true)
+* [imgui_tabs](https://github.com/scottmudge/imgui_tabs): Tab module for imgui\
+![imgui_tabs screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui_tabs.gif?raw=true)
 * [imgui-ws](https://github.com/ggerganov/imgui-ws): Dear ImGui over WebSockets 
+![imgui-ws screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui-ws.png?raw=true)
 * [imnodes](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui 
+![imnodes screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imnodes.gif?raw=true)
 * [ImViewGizmo](https://github.com/CedricGuillemet/ImGuizmo): Immediate mode 3D gizmo for scene editing and other controls 
 based on Dear Imgui
+![ImViewGizmo screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/ImGuizmo.gif?raw=true)
 * [ImWindow](https://github.com/thennequin/ImWindow): Window and GUI system based on Dear ImGui from OCornut
-* [MetricsGui](https://github.com/GameTechDev/MetricsGui): Library of ImGui controls for displaying performance metrics. 
+![ImWindow screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/ImWindow.gif?raw=true)
+* [MetricsGui](https://github.com/GameTechDev/MetricsGui): Library of ImGui controls for displaying performance metrics.
+![MetricsGui screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/MetricsGui.png?raw=true)
 * [Node Editor in ImGui](https://github.com/thedmd/imgui-node-editor): Node Editor using ImGui 
+![Node Editor in ImGui screenshot](https://github.com/HankiDesign/awesome-dear-imgui/blob/master/Assets/imgui-node-editor.png?raw=true)
 * [Remote ImGui](https://github.com/JordiRos/remoteimgui): Extension for dear imgui, sending output and receiving input from a target client in another device running an HTML5/WebGL/WebSockets(v13) application
 
 
