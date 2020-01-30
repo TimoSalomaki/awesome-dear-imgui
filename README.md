@@ -2,6 +2,11 @@
 
 A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings, extensions and resources. WIP!
 
+**TODO:**
+- [ ] Copy over missing frameworks and widgets from the official Wiki
+- [ ] Travis build with alphabetic ordering checks
+- [ ] Create sub-categories for the Libraries section
+
 ## Contents
 
 * [Other lists](#other-lists)
@@ -28,11 +33,15 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 * [imgui_memory_editor](https://github.com/ocornut/imgui_club): Mini hexadecimal editor
 * [imgui-plot](https://github.com/soulthreads/imgui-plot): An improved plot widget for Dear ImGui, aimed at displaying audio data
 * [imgui_tabs](https://github.com/scottmudge/imgui_tabs): Tab module for imgui
+* [imgui-ws](https://github.com/ggerganov/imgui-ws): Dear ImGui over WebSockets 
+* [imnodes](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui 
 * [ImViewGizmo](https://github.com/CedricGuillemet/ImGuizmo): Immediate mode 3D gizmo for scene editing and other controls 
 based on Dear Imgui
 * [ImWindow](https://github.com/thennequin/ImWindow): Window and GUI system based on Dear ImGui from OCornut
+* [MetricsGui](https://github.com/GameTechDev/MetricsGui): Library of ImGui controls for displaying performance metrics. 
 * [Node Editor in ImGui](https://github.com/thedmd/imgui-node-editor): Node Editor using ImGui 
 * [Remote ImGui](https://github.com/JordiRos/remoteimgui): Extension for dear imgui, sending output and receiving input from a target client in another device running an HTML5/WebGL/WebSockets(v13) application
+
 
 ### Bindings
 
