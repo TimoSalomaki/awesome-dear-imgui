@@ -1,6 +1,8 @@
-# Awesome dear imgui
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/awesome-dear-imgui-logo.png">
+</p>
 
-A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings, extensions and resources. WIP!
+A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings, extensions and resources. Work very much in progress!
 
 **TODO:**
 - [ ] Copy over missing frameworks and widgets from the official Wiki
