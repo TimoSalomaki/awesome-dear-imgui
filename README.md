@@ -62,82 +62,33 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 [Progress Indicators (spinner + loading bar)](https://github.com/ocornut/imgui/issues/1901) | |<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/imgui-progress-indicator.gif" width="650" />
 [Remote ImGui](https://github.com/JordiRos/remoteimgui): Extension for dear imgui, sending output and receiving input from a target client in another device running an HTML5/WebGL/WebSockets(v13) application |[MIT License](https://github.com/JordiRos/remoteimgui/blob/master/LICENSE)|
 [Spin Input Widget](https://github.com/ocornut/imgui/issues/2649): Int/Float/Double | |<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/spin-input-widget.png" width="650" />
-[Toggle button](https://github.com/ocornut/imgui/issues/1537#issuecomment-355569554) |[MIT License]()|<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/toggle-button.gif" width="650" />
+[Toggle button](https://github.com/ocornut/imgui/issues/1537#issuecomment-355569554) | |<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/toggle-button.gif" width="650" />
 [Zep](https://github.com/cmaughan/zep): An embeddable editor, with optional support for using vim keystrokes. |[MIT License](https://github.com/cmaughan/zep/blob/master/LICENSE)|<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/zep.png" width="650" />
 
 ### Bindings
 
 #### Languages
 
-##### C
-* [cimgui](https://github.com/cimgui/cimgui): c-api for imgui
-
-##### C#
-* [ImGui.NET](https://github.com/mellinoe/ImGui.NET): An ImGui wrapper for .NET. 
-
-##### ChaiScript
-* [imgui-chaiscript](https://github.com/JuJuBoSc/imgui-chaiscript): ImGui binding for ChaiScript
-
-##### CovScript
-* [covscript-imgui](https://github.com/covscript/covscript-imgui): ImGUI Extension for CovScript
-
-##### D
-* [DerelictImgui](https://github.com/Extrawurst/DerelictImgui): Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language
-
-##### Go
-* [imgui-go](https://github.com/inkyblackness/imgui-go): Go wrapper library for "Dear ImGui"
-
-##### Haskell
-* [imgui-haskell](https://github.com/dbousamra/imgui-haskell): Haskell bindings for Dear Imgui
-
-##### Haxe/hxcpp
-* [linc_imgui](https://github.com/Aidan63/linc_imgui): Haxe/hxcpp @:native bindings for ImGui
-
-##### Java
-* [jimgui](https://github.com/ice1000/jimgui): Pure Java binding for dear-imgui
-* [imgui-java](https://github.com/SpaiR/imgui-java): A handcrafted/generated Java binding for Dear ImGui
-
-##### JavaScript
-* [imgui-js](https://github.com/flyover/imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript
-
-##### Julia
-* [CImGui.jl](https://github.com/Gnimuc/CImGui.jL): Julia wrapper for cimgui
-
-##### Kotlin
-* [kotlin-imgui](https://github.com/Dominaezzz/kotlin-imgui): Kotlin bindings for Dear ImGui
-
-##### Lua
-* [LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui): LuaJIT ffi binding for imgui and implementations
-* [imgui_lua_bindings](https://github.com/patrickriordan/imgui_lua_bindings): Function bindings for ImGui in lua
-* [lua-ffi-bindings](https://github.com/thenumbernine/lua-ffi-bindings): FFI bindings for LuaJIT
-
-##### Nim
-* [nim-imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui
-
-##### Odin
-* [odin_dear_imgui](https://github.com/ThisDrunkDane/odin-dear_imgui): Odin binding for Dear ImGui
-
-##### Pascal
-* [imgui-pas](https://github.com/dpethes/imgui-pas): Pascal bindings for imgui 
-
-##### PureBasic
-* [pb-cimgui](https://github.com/hippyau/pb-cimgui): PureBasic interface to CImGui Wrapper
-
-##### Python
-* [pyimgui](https://github.com/swistakm/pyimgui): Cython-based Python bindings for dear imgui
-* [Bimpy](https://github.com/podgorskiy/bimpy): imgui for python
-* [CyImGui](https://github.com/chromy/cyimgui): Python bindings for ImGui using Cython. (obsolete)
-* [deargui](https://github.com/cammm/deargui): Python bindings for dear imgui, generated with clang and pybind11
-
-##### Ruby
-* [ruby-imgui](https://github.com/vaiorabbit/ruby-imgui): Yet another ImGui wrapper for Ruby
-
-##### Rust
-* [imgui-rs](https://github.com/Gekkio/imgui-rs): Rust bindings for dear imgui
-* [imgui-rust](https://github.com/nsf/imgui-rust): Alternative (personal) imgui rust bindings
-* [rust-imgui-opengl-renderer](https://github.com/michaelfairley/rust-imgui-opengl-renderer): OpenGL (3+) rendering for imgui-rs 
-
-##### Swift
-* [SwiftGui](https://github.com/erickjung/SwiftGUI): an experimental API inspired by SwiftUI declarative code, using Dear ImGui and running on OSX and iOS.
-* [SwiftImGui](https://github.com/ctreffs/SwiftImGui): Swift wrapper around Dear imgui for macOS, iOS and Linux
-* [Swift-imgui](https://github.com/mnmly/Swift-imgui): Dear ImGui Swift Wrapper API for macOS and iOS
+Language | Project | License
+---------|---------|---------
+C|[cimgui](https://github.com/cimgui/cimgui): c-api for imgui|[MIT License](https://github.com/cimgui/cimgui/blob/master/LICENSE)
+C#|[ImGui.NET](https://github.com/mellinoe/ImGui.NET): An ImGui wrapper for .NET.|[MIT License](https://github.com/mellinoe/ImGui.NET/blob/master/LICENSE)
+ChaiScript|[imgui-chaiscript](https://github.com/JuJuBoSc/imgui-chaiscript): ImGui binding for ChaiScript|[The Unlicense](https://github.com/JuJuBoSc/imgui-chaiscript/blob/master/LICENSE)
+CovScript|[covscript-imgui](https://github.com/covscript/covscript-imgui): ImGUI Extension for CovScript|[Covariant Innovation General Public License](https://github.com/covscript/covscript-imgui/blob/master/LICENSE)
+D|[DerelictImgui](https://github.com/Extrawurst/DerelictImgui): Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language|[MIT License](https://github.com/Extrawurst/DerelictImgui/blob/master/LICENSE)
+Go|[imgui-go](https://github.com/inkyblackness/imgui-go): Go wrapper library for "Dear ImGui"|[New BSD License](https://github.com/inkyblackness/imgui-go/blob/master/LICENSE)
+Haskell|[imgui-haskell](https://github.com/dbousamra/imgui-haskell): Haskell bindings for Dear Imgui|[BSD 3-Clause "New" or "Revised" License](https://github.com/dbousamra/imgui-haskell/blob/master/LICENSE)
+Haxe/hxcpp|[linc_imgui](https://github.com/Aidan63/linc_imgui): Haxe/hxcpp @:native bindings for ImGui| 
+Java|[jimgui](https://github.com/ice1000/jimgui): Pure Java binding for dear-imgui<br>[imgui-java](https://github.com/SpaiR/imgui-java): A handcrafted/generated Java binding for Dear ImGui|jimgui: [Apache License 2.0](https://github.com/ice1000/jimgui/blob/master/LICENSE)<br>imgui-java: [Apache License 2.0](https://github.com/SpaiR/imgui-java/blob/master/LICENSE)
+JavaScript|[imgui-js](https://github.com/flyover/imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript|[MIT License](https://github.com/flyover/imgui-js/blob/master/LICENSE.txt)
+Julia|[CImGui.jl](https://github.com/Gnimuc/CImGui.jL): Julia wrapper for cimgui|[MIT License](https://github.com/Gnimuc/CImGui.jl/blob/master/LICENSE)
+Kotlin|[kotlin-imgui](https://github.com/Dominaezzz/kotlin-imgui): Kotlin bindings for Dear ImGui|[MIT License](https://github.com/Dominaezzz/kotlin-imgui/blob/master/LICENSE)
+Lua|[LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui): LuaJIT ffi binding for imgui and implementations<br>[imgui_lua_bindings](https://github.com/patrickriordan/imgui_lua_bindings): Function bindings for ImGui in lua<br>[lua-ffi-bindings](https://github.com/thenumbernine/lua-ffi-bindings): FFI bindings for LuaJIT|lua-ffi-bindings: [Custom license](https://github.com/patrickriordan/imgui_lua_bindings#license)
+Nim|[nim-imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui|[MIT License](https://github.com/nimgl/imgui/blob/master/LICENSE)
+Odin|[odin_dear_imgui](https://github.com/ThisDrunkDane/odin-dear_imgui): Odin binding for Dear ImGui|[MIT License](https://github.com/ThisDrunkDane/odin-imgui/blob/master/LICENSE)
+Pascal|[imgui-pas](https://github.com/dpethes/imgui-pas): Pascal bindings for imgui |[MIT License](https://github.com/dpethes/imgui-pas/blob/master/LICENSE)
+PureBasic|[pb-cimgui](https://github.com/hippyau/pb-cimgui): PureBasic interface to CImGui Wrapper|[MIT License](https://github.com/hippyau/pb-cimgui/blob/master/LICENSE)
+  Python|[pyimgui](https://github.com/swistakm/pyimgui): Cython-based Python bindings for dear imgui<br>[Bimpy](https://github.com/podgorskiy/bimpy): imgui for python<br>[CyImGui](https://github.com/chromy/cyimgui): Python bindings for ImGui using Cython. (obsolete)<br>[deargui](https://github.com/cammm/deargui): Python bindings for dear imgui, generated with clang and pybind11|pyimgui: [BSD 3-Clause "New" or "Revised" License](https://github.com/swistakm/pyimgui/blob/master/LICENSE)<br>Bimpy: [MIT License](https://github.com/podgorskiy/bimpy/blob/master/LICENSE.txt)<br>deargui: [MIT License](https://github.com/cammm/deargui/blob/master/LICENSE)
+Ruby|[ruby-imgui](https://github.com/vaiorabbit/ruby-imgui): Yet another ImGui wrapper for Ruby|[Custom License](https://github.com/vaiorabbit/ruby-imgui/blob/master/LICENSE.txt)
+Rust|[imgui-rs](https://github.com/Gekkio/imgui-rs): Rust bindings for dear imgui<br>[imgui-rust](https://github.com/nsf/imgui-rust): Alternative (personal) imgui rust bindings<br>[rust-imgui-opengl-renderer](https://github.com/michaelfairley/rust-imgui-opengl-renderer): OpenGL (3+) rendering for imgui-rs |imgui-rs: [Apache License, Version 2.0](https://github.com/Gekkio/imgui-rs/blob/master/LICENSE-APACHE) or [MIT License](https://github.com/Gekkio/imgui-rs/blob/master/LICENSE-MIT)<br>imgui-rust: [MIT License](https://github.com/nsf/imgui-rust/blob/master/LICENSE)
+Swift|[SwiftGui](https://github.com/erickjung/SwiftGUI): an experimental API inspired by SwiftUI declarative code, using Dear ImGui and running on OSX and iOS.<br>[SwiftImGui](https://github.com/ctreffs/SwiftImGui): Swift wrapper around Dear imgui for macOS, iOS and Linux<br>[Swift-imgui](https://github.com/mnmly/Swift-imgui): Dear ImGui Swift Wrapper API for macOS and iOS|SwiftGui: [MIT License](https://github.com/erickjung/SwiftGUI/blob/master/LICENSE)<br>SwiftImGui: [MIT License](https://github.com/ctreffs/SwiftImGui/blob/master/LICENSE)
