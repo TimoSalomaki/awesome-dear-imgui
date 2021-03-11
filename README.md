@@ -4,11 +4,6 @@
 
 A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings, extensions and resources. Work very much in progress!
 
-**TODO:**
-- [ ] Copy over missing frameworks and widgets from the official Wiki
-- [ ] Travis build with alphabetic ordering checks
-- [ ] Create sub-categories for the Libraries section
-
 ## Contents
 
 * [Other lists](#other-lists)
@@ -16,6 +11,7 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 * [Bindings](#bindings)
   * [Languages](#languages)
   * [Engines](#engines)
+* [Todo](#todo)
 
 ### Other lists
 
@@ -96,3 +92,8 @@ PureBasic|[pb-cimgui](https://github.com/hippyau/pb-cimgui): PureBasic interface
 Ruby|[ruby-imgui](https://github.com/vaiorabbit/ruby-imgui): Yet another ImGui wrapper for Ruby|[Custom License](https://github.com/vaiorabbit/ruby-imgui/blob/master/LICENSE.txt)
 Rust|[imgui-rs](https://github.com/Gekkio/imgui-rs): Rust bindings for dear imgui<br>[imgui-rust](https://github.com/nsf/imgui-rust): Alternative (personal) imgui rust bindings<br>[rust-imgui-opengl-renderer](https://github.com/michaelfairley/rust-imgui-opengl-renderer): OpenGL (3+) rendering for imgui-rs |imgui-rs: [Apache License, Version 2.0](https://github.com/Gekkio/imgui-rs/blob/master/LICENSE-APACHE) or [MIT License](https://github.com/Gekkio/imgui-rs/blob/master/LICENSE-MIT)<br>imgui-rust: [MIT License](https://github.com/nsf/imgui-rust/blob/master/LICENSE)
 Swift|[SwiftGui](https://github.com/erickjung/SwiftGUI): an experimental API inspired by SwiftUI declarative code, using Dear ImGui and running on OSX and iOS.<br>[SwiftImGui](https://github.com/ctreffs/SwiftImGui): Swift wrapper around Dear imgui for macOS, iOS and Linux<br>[Swift-imgui](https://github.com/mnmly/Swift-imgui): Dear ImGui Swift Wrapper API for macOS and iOS|SwiftGui: [MIT License](https://github.com/erickjung/SwiftGUI/blob/master/LICENSE)<br>SwiftImGui: [MIT License](https://github.com/ctreffs/SwiftImGui/blob/master/LICENSE)
+
+### TODO:
+- [ ] Copy over missing frameworks and widgets from the official Wiki
+- [ ] Travis build with alphabetic ordering checks
+- [ ] Create sub-categories for the Libraries section
