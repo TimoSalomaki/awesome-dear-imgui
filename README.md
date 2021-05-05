@@ -71,19 +71,22 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 
 Language | Project | License
 ---------|---------|---------
+Beef|[imgui-beef](https://github.com/RogueMacro/imgui-beef): Dear ImGui wrapper for the Beef Programming Language|
 C|[cimgui](https://github.com/cimgui/cimgui): c-api for imgui|[MIT License](https://github.com/cimgui/cimgui/blob/master/LICENSE)
 C#|[ImGui.NET](https://github.com/mellinoe/ImGui.NET): An ImGui wrapper for .NET.|[MIT License](https://github.com/mellinoe/ImGui.NET/blob/master/LICENSE)
 ChaiScript|[imgui-chaiscript](https://github.com/JuJuBoSc/imgui-chaiscript): ImGui binding for ChaiScript|[The Unlicense](https://github.com/JuJuBoSc/imgui-chaiscript/blob/master/LICENSE)
 CovScript|[covscript-imgui](https://github.com/covscript/covscript-imgui): ImGUI Extension for CovScript|[Covariant Innovation General Public License](https://github.com/covscript/covscript-imgui/blob/master/LICENSE)
+Crystal|[crystal-imgui](https://github.com/oprypin/crystal-imgui): Crystal bindings to Dear ImGui|[MIT License](https://github.com/oprypin/crystal-imgui/blob/master/LICENSE.md)
 D|[DerelictImgui](https://github.com/Extrawurst/DerelictImgui): Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language|[MIT License](https://github.com/Extrawurst/DerelictImgui/blob/master/LICENSE)
 Go|[imgui-go](https://github.com/inkyblackness/imgui-go): Go wrapper library for "Dear ImGui"|[New BSD License](https://github.com/inkyblackness/imgui-go/blob/master/LICENSE)
 Haskell|[imgui-haskell](https://github.com/dbousamra/imgui-haskell): Haskell bindings for Dear Imgui|[BSD 3-Clause "New" or "Revised" License](https://github.com/dbousamra/imgui-haskell/blob/master/LICENSE)
 Haxe/hxcpp|[linc_imgui](https://github.com/Aidan63/linc_imgui): Haxe/hxcpp @:native bindings for ImGui| 
+Haxe/Heaps|[hlimgui](https://github.com/haddock7/hlimgui): Heaps/HashLink native binding for Dear ImGui|[MIT License](https://github.com/haddock7/hlimgui/blob/master/LICENSE)
 Java|[jimgui](https://github.com/ice1000/jimgui): Pure Java binding for dear-imgui<br>[imgui-java](https://github.com/SpaiR/imgui-java): A handcrafted/generated Java binding for Dear ImGui|jimgui: [Apache License 2.0](https://github.com/ice1000/jimgui/blob/master/LICENSE)<br>imgui-java: [Apache License 2.0](https://github.com/SpaiR/imgui-java/blob/master/LICENSE)
 JavaScript|[imgui-js](https://github.com/flyover/imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript|[MIT License](https://github.com/flyover/imgui-js/blob/master/LICENSE.txt)
 Julia|[CImGui.jl](https://github.com/Gnimuc/CImGui.jL): Julia wrapper for cimgui|[MIT License](https://github.com/Gnimuc/CImGui.jl/blob/master/LICENSE)
 Kotlin|[kotlin-imgui](https://github.com/Dominaezzz/kotlin-imgui): Kotlin bindings for Dear ImGui|[MIT License](https://github.com/Dominaezzz/kotlin-imgui/blob/master/LICENSE)
-Lua|[LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui): LuaJIT ffi binding for imgui and implementations<br>[imgui_lua_bindings](https://github.com/patrickriordan/imgui_lua_bindings): Function bindings for ImGui in lua<br>[lua-ffi-bindings](https://github.com/thenumbernine/lua-ffi-bindings): FFI bindings for LuaJIT|LuaJIT-ImGui: [MIT License](https://github.com/sonoro1234/LuaJIT-ImGui/blob/master/LICENSE.txt)<br>lua-ffi-bindings: [Custom license](https://github.com/patrickriordan/imgui_lua_bindings#license)
+Lua|[Gideros_ImGui](https://github.com/MultiPain/Gideros_ImGui): ImGui binding for Gideros<br>[imgui_lua_bindings](https://github.com/patrickriordan/imgui_lua_bindings): Function bindings for ImGui in lua<br>[lua-ffi-bindings](https://github.com/thenumbernine/lua-ffi-bindings): FFI bindings for LuaJIT<br>[LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui): LuaJIT ffi binding for imgui and implementations<br>[sol2_ImGui_Bindings](https://github.com/MSeys/sol2_ImGui_Bindings): ImGui bindings for sol2|lua-ffi-bindings: [Custom license](https://github.com/patrickriordan/imgui_lua_bindings#license)<br>LuaJIT-ImGui: [MIT License](https://github.com/sonoro1234/LuaJIT-ImGui/blob/master/LICENSE.txt)<br>sol2 ImGui Bindings: [MIT License](https://github.com/MSeys/sol2_ImGui_Bindings/blob/master/LICENSE)
 Nim|[nim-imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui|[MIT License](https://github.com/nimgl/imgui/blob/master/LICENSE)
 Odin|[odin_dear_imgui](https://github.com/ThisDrunkDane/odin-dear_imgui): Odin binding for Dear ImGui|[MIT License](https://github.com/ThisDrunkDane/odin-imgui/blob/master/LICENSE)
 Pascal|[imgui-pas](https://github.com/dpethes/imgui-pas): Pascal bindings for imgui |[MIT License](https://github.com/dpethes/imgui-pas/blob/master/LICENSE)
