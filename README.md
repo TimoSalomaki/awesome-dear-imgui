@@ -8,6 +8,7 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 
 * [Other lists](#other-lists)
 * [Libraries](#libraries)
+* [Tools](#tools)
 * [Bindings](#bindings)
   * [Languages](#languages)
   * [Engines](#engines)
@@ -67,6 +68,12 @@ A collection of awesome [dear imgui](https://github.com/ocornut/imgui) bindings,
 [Spin Input Widget](https://github.com/ocornut/imgui/issues/2649): Int/Float/Double | |<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/spin-input-widget.png" width="650" />
 [Toggle button](https://github.com/ocornut/imgui/issues/1537#issuecomment-355569554) | |<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/toggle-button.gif" width="650" />
 [Zep](https://github.com/cmaughan/zep): An embeddable editor, with optional support for using vim keystrokes. |[MIT License](https://github.com/cmaughan/zep/blob/master/LICENSE)|<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/zep.png" width="650" />
+
+### Tools
+
+ Name | License | Preview 
+------|---------|---------
+[ImStudio](https://github.com/Raais/ImStudio): Real-time GUI layout creator/editor for Dear ImGui. |[MIT License](https://github.com/Raais/ImStudio/blob/main/LICENSE) |<img src="https://raw.githubusercontent.com/HankiDesign/awesome-dear-imgui/master/Assets/imstudio-realtime-imgui-editor.png" width="650" />
 
 ### Bindings
 
