@@ -90,7 +90,7 @@ ChaiScript|[imgui-chaiscript](https://github.com/JuJuBoSc/imgui-chaiscript): ImG
 CovScript|[covscript-imgui](https://github.com/covscript/covscript-imgui): ImGUI Extension for CovScript|[Covariant Innovation General Public License](https://github.com/covscript/covscript-imgui/blob/master/LICENSE)
 Crystal|[crystal-imgui](https://github.com/oprypin/crystal-imgui): Crystal bindings to Dear ImGui|[MIT License](https://github.com/oprypin/crystal-imgui/blob/master/LICENSE.md)
 D|[DerelictImgui](https://github.com/Extrawurst/DerelictImgui): Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language|[MIT License](https://github.com/Extrawurst/DerelictImgui/blob/master/LICENSE)
-Go|[imgui-go](https://github.com/inkyblackness/imgui-go): Go wrapper library for "Dear ImGui"|[New BSD License](https://github.com/inkyblackness/imgui-go/blob/master/LICENSE)
+Go|[cimgui-go](https://github.com/AllenDang/cimgui-go): Auto generated Go wrapper for Dear ImGui via cimgui |[MIT License](https://github.com/AllenDang/cimgui-go/blob/main/LICENSE)
 Haskell|[imgui-haskell](https://github.com/dbousamra/imgui-haskell): Haskell bindings for Dear Imgui|[BSD 3-Clause "New" or "Revised" License](https://github.com/dbousamra/imgui-haskell/blob/master/LICENSE)
 Haxe/hxcpp|[linc_imgui](https://github.com/Aidan63/linc_imgui): Haxe/hxcpp @:native bindings for ImGui| 
 Haxe/Heaps|[hlimgui](https://github.com/haddock7/hlimgui): Heaps/HashLink native binding for Dear ImGui|[MIT License](https://github.com/haddock7/hlimgui/blob/master/LICENSE)
