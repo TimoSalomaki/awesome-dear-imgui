@@ -91,7 +91,7 @@ CovScript|[covscript-imgui](https://github.com/covscript/covscript-imgui): ImGUI
 Crystal|[crystal-imgui](https://github.com/oprypin/crystal-imgui): Crystal bindings to Dear ImGui|[MIT License](https://github.com/oprypin/crystal-imgui/blob/master/LICENSE.md)
 D|[DerelictImgui](https://github.com/Extrawurst/DerelictImgui): Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language|[MIT License](https://github.com/Extrawurst/DerelictImgui/blob/master/LICENSE)
 Go|[cimgui-go](https://github.com/AllenDang/cimgui-go): Auto generated Go wrapper for Dear ImGui via cimgui |[MIT License](https://github.com/AllenDang/cimgui-go/blob/main/LICENSE)
-Haskell|[imgui-haskell](https://github.com/dbousamra/imgui-haskell): Haskell bindings for Dear Imgui|[BSD 3-Clause "New" or "Revised" License](https://github.com/dbousamra/imgui-haskell/blob/master/LICENSE)
+Haskell|[dear-imgui.hs](https://github.com/haskell-game/dear-imgui.hs): Haskell bindings to the ImGui project|[BSD 3-Clause "New" or "Revised" License](https://github.com/haskell-game/dear-imgui.hs/blob/main/LICENSE)
 Haxe/hxcpp|[linc_imgui](https://github.com/Aidan63/linc_imgui): Haxe/hxcpp @:native bindings for ImGui| 
 Haxe/Heaps|[hlimgui](https://github.com/haddock7/hlimgui): Heaps/HashLink native binding for Dear ImGui|[MIT License](https://github.com/haddock7/hlimgui/blob/master/LICENSE)
 Java|[jimgui](https://github.com/ice1000/jimgui): Pure Java binding for dear-imgui<br>[imgui-java](https://github.com/SpaiR/imgui-java): A handcrafted/generated Java binding for Dear ImGui|jimgui: [Apache License 2.0](https://github.com/ice1000/jimgui/blob/master/LICENSE)<br>imgui-java: [Apache License 2.0](https://github.com/SpaiR/imgui-java/blob/master/LICENSE)
